@@ -12,6 +12,8 @@ To install nodejs please refer: <br />
 to create react app: <br />
 https://create-react-app.dev/
 
+------
+
 ### Development
 
 #### Install dependencies
